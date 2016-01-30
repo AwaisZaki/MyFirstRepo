@@ -1,0 +1,1 @@
+Save yourlocal modifications to a new stash, and run git reset --hard to revert them
